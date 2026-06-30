@@ -9,7 +9,8 @@ I have been a hard user of CAD software for almost 20 years and a mechanical des
 ## Start with CadQuery
 
 ### Install
-> For a complete installation guide, please visit official documentation. 
+> For a complete installation guide, please visit the [official documentation](https://cadquery.readthedocs.io/en/latest/index.html)
+
 
 To install in Ubuntu (WSL2 in my case):
 
